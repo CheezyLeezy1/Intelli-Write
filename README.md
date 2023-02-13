@@ -16,17 +16,17 @@ JavaScript
 HTML
 CSS
 
-### Getting Started
+## Getting Started
 To run this project locally, follow the steps below:
 
-### Clone the repository to your local machine:
+## Clone the repository to your local machine:
 $ git clone https://github.com/CheezyLeezy1/gpt3-writer.git
 
-### Install the dependencies using Yarn:
+## Install the dependencies using Yarn:
 You need to first navigate to the root directory of your project in the terminal. Then run the following command:
 $ yarn
 
-### Start the development server:
+## Start the development server:
 $ yarn dev
 Visit http://localhost:3000 in your web browser to view the project.
 
