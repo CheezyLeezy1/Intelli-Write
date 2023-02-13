@@ -1,6 +1,10 @@
 # IntelliWrite
 A simple and intuitive AI-driven content generation tool that allows you to generate professional content with ease.
 
+
+<img width="1917" alt="Screenshot 2023-02-13 at 17 04 26" src="https://user-images.githubusercontent.com/73366592/218536618-16a8382c-a584-4f19-b785-c35495a28cbe.png">
+
+
 ## Key Features
 - Easy to use
 - User-friendly interface
