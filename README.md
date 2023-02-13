@@ -1,25 +1,25 @@
 # IntelliWrite
 A simple and intuitive AI-driven content generation tool that allows you to generate professional content with ease.
 
-## Key Features
-Easy to use
-User-friendly interface
-AI-driven content generation using GPT-3 technology
-Select from a variety of content types including blog posts, articles, Instagram captions, tweets, Facebook posts, web copy, LinkedIn posts, and TikTok ideas.
-Customize your content with user input and a character prompt.
+## Key Features
+- Easy to use
+- User-friendly interface
+- AI-driven content generation using GPT-3 technology
+- Select from a variety of content types including blog posts, articles, Instagram captions, tweets, Facebook posts, web copy, LinkedIn posts, and TikTok ideas.
+- Customize your content with user input and a character prompt.
 
 ## Technologies Used
-Next.js
-React.js
-GPT-3 API
-JavaScript
-HTML
-CSS
+- Next.js
+- React.js
+- GPT-3 API
+- JavaScript
+- HTML
+- CSS
 
-## Getting Started
+## Getting Started
 To run this project locally, follow the steps below:
 
-## Clone the repository to your local machine:
+### Clone the repository to your local machine:
 $ git clone https://github.com/CheezyLeezy1/gpt3-writer.git
 
 ## Install the dependencies using Yarn:
